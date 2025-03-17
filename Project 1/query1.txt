@@ -1,0 +1,185 @@
+Disease Name:
+bone cancer
+Gene Causes :
+CDK4
+TOPORS
+CITED2
+TUBB4B
+EMILIN1
+CHEK2
+CYP3A4
+DHFR
+EGFR
+EIF2S1
+ENO2
+ERG
+ETV4
+EWSR1
+EZH2
+FLI1
+FLII
+OTP
+FOLR1
+FUS
+CIZ1
+GNA11
+CYP4V2
+GRM1
+GRM4
+GSTP1
+IGF1R
+IL3
+JUN
+KIT
+KRT83
+LOX
+MDM2
+MET
+CD99
+MMP2
+MMP9
+MST1R
+ATF1
+NT5C3A
+PLAU
+PLOD2
+FEV
+BCOR
+TMEM144
+FOXRED1
+NDUFA12
+PTGS2
+ZNF77
+RB1
+RFC1
+RGS1
+BMI1
+SMO
+SPARC
+BRAF
+BRCA2
+SSX1
+T
+TGFBR2
+TP53
+PHLDA2
+TUBB2A
+WT1
+MOGS
+ST7
+TAF15
+C21orf33
+LZIC
+COPS3
+CCNB3
+TNFRSF11A
+NR1I2
+ZW10
+Drug Treat/Palliate:
+Epirubicin
+Cisplatin
+Methotrexate
+Carboplatin
+Doxorubicin
+Anatomy/Disease Occurs:
+nose
+appendage
+tendon
+cranial nerve II
+sternum
+leg
+vertebral arch joint
+external carotid artery
+vertebral bone 2
+clavicle bone
+vertebral column
+external acoustic meatus
+sacro-iliac joint
+epiphysis
+face
+arm
+elbow
+manual digit 1
+hip
+knee
+shoulder
+sternoclavicular joint
+glenohumeral joint
+sesamoid bone
+knee joint
+hip joint
+ankle joint
+elbow joint
+vertebral artery
+popliteal vein
+cheek
+olfactory nerve
+masseter muscle
+temporalis muscle
+maxillary artery
+ophthalmic artery
+trigeminal nerve
+abducens nerve
+facial nerve
+hypoglossal nerve
+occipital bone
+sphenoid bone
+temporal bone
+ethmoid bone
+nasal bone
+mandible
+hyoid bone
+external ear
+petrous part of temporal bone
+orbit of skull
+nasal cavity
+jaw skeleton
+lower jaw region
+eyelid
+secondary palate
+sphenoidal sinus
+soft palate
+palatine uvula
+lacrimal apparatus
+middle ear
+frontal sinus
+turbinate bone
+maxillary sinus
+cranial nerve
+lumbosacral nerve plexus
+paranasal sinus
+forelimb
+hindlimb
+musculoskeletal system
+manubrium of sternum
+endolymphatic sac
+rib
+spinal cord
+popliteal artery
+thoracic vertebra
+dura mater
+bone marrow
+rectus abdominis muscle
+connective tissue
+pes
+manual digit
+nasolacrimal duct
+maxilla
+manus
+cervical vertebra
+lumbar vertebra
+cartilage tissue
+ethmoid sinus
+bone tissue
+acromion
+zygomatic arch
+periosteum
+epiphyseal plate
+basicranium
+skull
+hard palate
+cranial suture
+skeleton
+carpal region
+diaphysis
+scapula
