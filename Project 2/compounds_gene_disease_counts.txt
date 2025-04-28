@@ -1,1 +1,0 @@
-Compound	Gene_count	Disease_count
