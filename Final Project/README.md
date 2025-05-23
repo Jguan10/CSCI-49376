@@ -11,3 +11,6 @@
 - A random forest classifier is built and trained on the data
 - Using the test set, we gather predictions and zip with the labels
 - Multiclass metrics allows us to calculate the accuracy, precision, recall and f1 score as well as a confusion matrix
+
+## Model 2: Gradient Boosted Trees
+- The gradient boosted trees model follows the same format as random forest, except the model is different
